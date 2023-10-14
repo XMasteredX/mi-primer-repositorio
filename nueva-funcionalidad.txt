@@ -1,0 +1,1 @@
+checkout es un comando versátil que se utiliza para realizar varias tareas en un repositorio de Git, como cambiar entre ramas, crear nuevas ramas, deshacer cambios y más.
